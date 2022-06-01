@@ -1,0 +1,35 @@
+.welcome {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+#welcome-text h2 {
+    font-family: 'bold';
+    font-size: 150%;
+    background-color: #736598;
+}
+
+.welcome h1 {
+    font-family: 'bold';
+    font-size: 100%;
+}
+
+.welcome p {
+    font-family: 'bold';
+    font-size: 100%;
+}
+
+.welcome a {
+    display: inline-block;
+    width: 90px;
+    padding: 9px 0;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    background-color: #5f10f5;
+    color: white;
+    font-family: 'bold';
+    font-size: 95%;
+    border-radius: 10px;
+}

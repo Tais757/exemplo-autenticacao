@@ -1,0 +1,35 @@
+#details {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.home h2 {
+    font-family: 'bold';
+    font-size: 150%;
+    background-color: #736598;
+}
+
+#details h1 {
+    font-family: 'bold';
+    font-size: 120%;
+}
+
+.home a {
+    display: inline-block;
+    width: 70px;
+    float: inline-start;
+    padding: 5px 0;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    background-color: #5f10f5;
+    color: white;
+    font-family: 'bold';
+    font-size: 80%;
+    border-radius: 10px;
+}
+
+.home img {
+    padding-block-end: 5%;
+}
